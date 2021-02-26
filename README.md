@@ -11,4 +11,4 @@
 ## 好玩的圖
 
 
-![圖片的名字]（https://i1.wp.com/wp-corp.qoo-app.com/wp-content/uploads/2019/12/19121109304635.jpg?resize=1000%2C565）
+![圖片的名字]（image.jpg）
