@@ -8,6 +8,17 @@
 ## 興趣
 我喜歡編程
 
+```c
+#include <stdio.h>
+int main()
+{
+  printf ("Hello Word\n");
+  return 0;
+}
+```
+
+
+
 ## 好玩的圖
 
 
